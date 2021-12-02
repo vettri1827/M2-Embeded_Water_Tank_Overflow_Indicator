@@ -1,7 +1,7 @@
 # Automated Water Tank Overflow Control
 
  ## Code Quality
- [![Code Quality - Cppcheck](https://github.com/Nishanth-K1213/M2-Embedded_WaterTank_Overflow_Indicator/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Nishanth-K1213/M2-Embedded_WaterTank_Overflow_Indicator/actions/workflows/cppcheck.yml)
+ 
 |Code Inspector | Codacy |
 | ------ | -------------- | 
 [![Code Grade](https://api.codiga.io/project/30248/status/svg)](https://app.codiga.io/project/30248/dashboard)<br /> [![Code quality score](https://api.codiga.io/project/30248/score/svg)](https://app.codiga.io/project/30248/dashboard) | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/e02ea10e2dcf4a819a1a15f5e0f19f72)](https://www.codacy.com/gh/vettri1827/M2-Embeded_Water_Tank_Overflow_Indicator/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=vettri1827/M2-Embeded_Water_Tank_Overflow_Indicator&amp;utm_campaign=Badge_Grade)
