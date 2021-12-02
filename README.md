@@ -4,7 +4,7 @@
  [![Code Quality - Cppcheck](https://github.com/Nishanth-K1213/M2-Embedded_WaterTank_Overflow_Indicator/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Nishanth-K1213/M2-Embedded_WaterTank_Overflow_Indicator/actions/workflows/cppcheck.yml)
 |Code Inspector | Codacy |
 | ------ | -------------- | 
-[![Code Grade](https://api.codiga.io/project/30201/status/svg)](https://app.codiga.io/project/30201/dashboard)<br /> [![Code quality score](https://api.codiga.io/project/30201/score/svg)](https://app.codiga.io/project/30201/dashboard) | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/e02ea10e2dcf4a819a1a15f5e0f19f72)](https://www.codacy.com/gh/vettri1827/M2-Embeded_Water_Tank_Overflow_Indicator/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=vettri1827/M2-Embeded_Water_Tank_Overflow_Indicator&amp;utm_campaign=Badge_Grade)
+[![Code Grade](https://api.codiga.io/project/30201/status/svg)](https://app.codiga.io/project/30201/dashboard)<br /> [![Code quality score](https://api.codiga.io/project/30248/score/svg) | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/e02ea10e2dcf4a819a1a15f5e0f19f72)](https://www.codacy.com/gh/vettri1827/M2-Embeded_Water_Tank_Overflow_Indicator/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=vettri1827/M2-Embeded_Water_Tank_Overflow_Indicator&amp;utm_campaign=Badge_Grade)
 
 Basically  automation  in  systems  would  help  reduce  wastage  of  resources  in  various  ways,  one  such  way  for  the 
 prevention  of  wastage  of  water  resource  to  control  the  water  tanks  from  overflow.  In  this  automated  world,  the 
