@@ -1,6 +1,7 @@
 # Automated Water Tank Overflow Control
 
  ## Code Quality
+ [![Code Quality - Cppcheck](https://github.com/vettri1827/M2-Embeded_Water_Tank_Overflow_Indicator/actions/workflows/cpp%20check.yml/badge.svg)](https://github.com/vettri1827/M2-Embeded_Water_Tank_Overflow_Indicator/actions/workflows/cpp%20check.yml)
  
 |Code Inspector | Codacy |
 | ------ | -------------- | 
